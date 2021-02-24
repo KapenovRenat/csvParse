@@ -1,0 +1,22 @@
+{
+  "name": "csvparse",
+  "version": "1.0.0",
+  "description": "csv parse",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KapenovRenat/csvParse.git"
+  },
+  "author": "Renat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KapenovRenat/csvParse/issues"
+  },
+  "homepage": "https://github.com/KapenovRenat/csvParse#readme",
+  "dependencies": {
+    "papaparse": "^5.3.0"
+  }
+}
